@@ -10,4 +10,4 @@ This program reads the E-Mail IDs from the XLSX file (email-id-sheet) and send t
 2. Sending that html template using python.
 
 ## Screenshot of html mail
-
+ ![Project Image 1](screenshot.png)
